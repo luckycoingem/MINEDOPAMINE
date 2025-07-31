@@ -2,5 +2,21 @@
   "name": "MineGem",
   "symbol": "MGEM",
   "description": "MineGem token on Solana",
-  "image": "https://raw.githubusercontent.com/luckycoingem/MINEDOPAMINE/main/image.png"
+  "image": "https://raw.githubusercontent.com/luckycoingem/MINEDOPAMINE/main/image256.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/luckycoingem/MINEDOPAMINE/main/image256.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
 }
